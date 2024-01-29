@@ -17,6 +17,9 @@ module.exports = {
         "neutral-100": withOpacity("--neutral-100"),
         "neutral-90": withOpacity("--neutral-90"),
         "neutral-80": withOpacity("--neutral-80"),
+        "neutral-70": withOpacity("--neutral-70"),
+        "neutral-60": withOpacity("--neutral-60"),
+        "neutral-50": withOpacity("--neutral-50"),
         "primary": withOpacity("--primary"),
       },
       spacing: {
